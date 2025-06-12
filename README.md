@@ -45,8 +45,8 @@
 ---
 
 ### 🌐 WordPress Projects
-- 🛒 **E-commerce** site for dry fruits  
-- 🎨 **Branding Products** portfolio  
+- 🛒 **E-commerce** site for DryFruits **[visit site](https://rajamasaleanddryfruits.com/)** 
+- 🎨 **Branding Products** E-commerce  **[visit site](https://adwelmarketing.com/)**
 
 ---
 
