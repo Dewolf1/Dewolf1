@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Adeeb</h1>
+<h1 align="right">Hi 👋, I'm Mohd Adeeb</h1>
 
 
 <p align="center"> <img src="ad.jpg" width="25%" title="Intro Card" alt="Intro Card"> </p>
