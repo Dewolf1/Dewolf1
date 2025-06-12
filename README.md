@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Adeeb</h1>
 
 
-<p align="center"> <img src="" width="100%" title="Intro Card" alt="Intro Card"> </p>
+<p align="center"> <img src="https://github.com/Dewolf1/Dewolf1/blob/main/IMG_2792.HEIC" width="100%" title="Intro Card" alt="Intro Card"> </p>
 
 <h3 align="center">A passionate fullStack developer from India</h3>
 
