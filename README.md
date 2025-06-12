@@ -45,22 +45,11 @@
 ---
 
 ### 🌐 WordPress Projects
-- 🛒 **E-commerce** site for DryFruits **[visit site](https://rajamasaleanddryfruits.com/)** 
-- 🎨 **Branding Products** E-commerce  **[visit site](https://adwelmarketing.com/)**
+- 🛒 **E-commerce** site for DryFruits   **[visit site](https://rajamasaleanddryfruits.com/)** 
+- 🎨 **Branding Products** E-commerce    **[visit site](https://adwelmarketing.com/)**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dewolf1&show_icons=true&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewolf1&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewolf1&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
