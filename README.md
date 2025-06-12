@@ -30,7 +30,8 @@
 ## 📂 Featured Projects
 
 ### 📌 BlogIt - Flask Blogging Platform
-> A full-fledged Flask-based blog app with user auth, CRUD, and admin panel.
+> BlogIt is a Flask-based blogging platform that allows users to register, log in, and create, edit, or delete blog posts. It features a clean, responsive design, an admin dashboard for managing content, and a contact form for user interaction. Built with Python (Flask), HTML/CSS, Bootstrap, and SQL (SQLite/MySQL), BlogIt demonstrates full-stack development skills with a focus on functionality, user experience, and real-world deployment.
+
 
 <p align="center">
   <img src="https://github.com/Dewolf1/BlogIt/raw/main/demo.gif" alt="BlogIt Demo" width="80%">
