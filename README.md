@@ -15,7 +15,7 @@
 - 🌐 Full Stack Web Developer (Flask | Django | WordPress)  
 - 🔥 Built **[BlogIt](https://github.com/Dewolf1/BlogIt)** – My best project, a Flask-based blogging platform  
 - 📸 Photography enthusiast (nature, wildlife, skies)  
-- 🎓 Pursuing B.Tech CSE (2nd Year)
+- 🎓 Pursuing B.Tech CSE (3rd Year)
 
 ---
 
