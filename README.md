@@ -1,64 +1,109 @@
+<h1 align="center">Hi, I'm Mohd Adeeb 👋</h1>
+<h3 align="center">Full Stack Developer • AI & Open Source Enthusiast • GSoC Aspirant</h3>
 
-<h1 align="center">Hi there, I'm Mohd Adeeb 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Full-Stack+Web+Developer;Django+%7C+Flask+%7C+WordPress+Expert;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Full+Stack+Web+Developer;AI+%26+Open+Source+Contributor;GSoC+Aspirant;Always+Learning&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+I’m a **B.Tech CSE undergraduate (ADGIPS’27)** and a passionate **Python & Full Stack Developer** who loves building real-world systems and contributing to open source.
 
-- 🧠 Passionate Python Programmer  
-- 🌐 Full Stack Web Developer (Flask | Django | WordPress)  
-- 🔥 Built **[BlogIt](https://github.com/Dewolf1/BlogIt)** – My best project, a Flask-based blogging platform  
-- 📸 Photography enthusiast (nature, wildlife, skies)  
-- 🎓 Pursuing B.Tech CSE (3rd Year)
+I work across **backend, frontend, AI, and system-level projects**, and I’m currently focused on:
+- 📚 **DSA (in progress)**
+- 🌍 **Open Source (GSoC-oriented contributions)**
+- 🤖 **AI systems & assistants**
+- 🧠 Writing clean, testable, production-grade code
 
 ---
 
-## 🚀 Tech Stack
+## 🧩 Open Source Contributions
+### 🔹 MetaBrainz – ListenBrainz
+- ✅ **Merged Pull Request** fixing *Fresh Releases range selector*  
+- 🔧 Implemented backend date-range validation & filtering  
+- 🔗 Synced frontend filters with API parameters  
+- 🧪 Added unit & integration tests with mocked datetime  
+- 📌 PR: `LB-1526` (merged into `master`)
 
+> This contribution involved **React + TypeScript, Python (Flask), API design, and testing**, following real-world open-source standards.
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ Option2 – Football Player Re-Identification
+**Tech:** YOLOv5, OSNet ReID, Tesseract OCR, Python  
+- Real-time football player tracking
+- Consistent ID assignment across frames
+- Jersey color clustering & number recognition
+- Built for robustness and performance
+
+🔗 Repo: https://github.com/Dewolf1/Option2_Football_player_tracking
+
+---
+
+### 🤖 Wolf_AI — Windows AI Assistant
+**Tech:** Python, LiveKit Agents, Google Realtime Voice  
+- Voice-enabled desktop assistant (JARVIS-inspired)
+- Performs system tasks, web search, music, and commands
+- Designed with modular command handling
+
+🔗 Repo: https://github.com/Dewolf1/Wolf_AI
+
+---
+
+### 📝 BlogIt — Flask Blogging Platform
+**Tech:** Flask, SQL, Bootstrap, HTML/CSS  
+- User authentication & admin dashboard
+- Full CRUD for posts
+- SMTP contact form & pagination
+- Clean UI with real deployment focus
+
+🔗 Repo: https://github.com/Dewolf1/Blogit
+
+---
+
+### 💼 WolfsBane — Digital Agency
+- Full-stack websites, UI/UX, branding & hosting
+- Client-facing production projects
+
+🌐 Live: https://wolfsbane.onrender.com
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,bootstrap,tailwind,wordpress,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,bootstrap,tailwind,wordpress,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📜 Certifications
+- 🏅 **Oracle OCI 2025 Generative AI Professional**
+- 🏅 **Oracle OCI 2025 AI Foundations Associate**
+- 🏅 **AI Agents Intensive Course – Google (Kaggle)**
+- 🏅 **Python Programming Internship – CantiLever.in**
 
-### 📌 BlogIt - Flask Blogging Platform
-> BlogIt is a Flask-based blogging platform that allows users to register, log in, and create, edit, or delete blog posts. It features a clean, responsive design, an admin dashboard for managing content, and a contact form for user interaction. Built with Python (Flask), HTML/CSS, Bootstrap, and SQL (SQLite/MySQL), BlogIt demonstrates full-stack development skills with a focus on functionality, user experience, and real-world deployment.
+---
 
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Advanced Open Source workflows  
+- Scalable backend systems  
+- AI agents & real-time pipelines  
 
+---
+
+## 📫 Let’s Connect
 <p align="center">
-  <img src="https://github.com/Dewolf1/BlogIt/raw/main/demo.gif" alt="BlogIt Demo" width="80%">
-</p>
-
----
-
-### 💼 WolfsBane – Digital Agency
-> Offers web dev, UI/UX, hosting, and branding solutions.  
-🌐 [Visit Site](https://wolfsbane.onrender.com)
-
----
-
-### 🌐 WordPress Projects
-- 🛒 **E-commerce** site for DryFruits   **[visit site](https://rajamasaleanddryfruits.com/)** 
-- 🎨 **Branding Products** E-commerce    **[visit site](https://adwelmarketing.com/)**
-
----
-
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:mdadeeb.2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohd-adeeb-2b43892ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mohdadeeb.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mdadeeb.2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohd-adeeb-2b43892ab"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mohdadeeb.onrender.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -67,6 +112,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
----
-
-⭐ _Thanks for visiting my profile! I'm always open to learning, collaborating, and building something awesome._
+⭐ *Always open to collaboration, learning, and building meaningful software.*
