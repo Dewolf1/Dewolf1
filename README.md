@@ -36,7 +36,7 @@ I work across **backend, frontend, AI, and system-level projects**, and I’m cu
 
 ## 🚀 Featured Projects
 
-### ⚽ Option2 – Football Player Re-Identification
+### ⚽ Football Player Re-Identification
 **Tech:** YOLOv5, OSNet ReID, Tesseract OCR, Python  
 - Real-time football player tracking
 - Consistent ID assignment across frames
