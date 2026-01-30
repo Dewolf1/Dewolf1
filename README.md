@@ -87,18 +87,6 @@ I work across **backend, frontend, AI, and system-level projects**, and I’m cu
 
 ---
 
-## 🧩 Open Source Contributions
-### 🔹 MetaBrainz – ListenBrainz
-- ✅ **Merged Pull Request** fixing *Fresh Releases range selector*  
-- 🔧 Implemented backend date-range validation & filtering  
-- 🔗 Synced frontend filters with API parameters  
-- 🧪 Added unit & integration tests with mocked datetime  
-- 📌 PR: `LB-1526` (merged into `master`)
-
-> This contribution involved **React + TypeScript, Python (Flask), API design, and testing**, following real-world open-source standards.
-
-
----
 
 ## 📫 Let’s Connect
 <p align="center">
